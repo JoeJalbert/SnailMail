@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: d07a3dd9c8887af40b0e29d50504a105
+timeCreated: 1425584222
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bodyCenter
+    100002: bodyCenter 1
+    100004: flatSnail1
+    100006: headEnd
+    100008: headEnd 1
+    100010: headMid
+    100012: headMid 1
+    100014: headStart
+    100016: headStart 1
+    100018: hitBoxes
+    100020: mainControl
+    100022: mesh
+    100024: pCube2
+    100026: pCube3
+    100028: pCube4
+    100030: pullUpJoint
+    100032: shell
+    100034: shellJoint
+    100036: //RootNode
+    100038: snailShell3
+    100040: tailEnd
+    100042: tailEnd 1
+    100044: tailMid
+    100046: tailMid 1
+    100048: tailStart
+    100050: tailStart 1
+    400000: bodyCenter
+    400002: bodyCenter 1
+    400004: flatSnail1
+    400006: headEnd
+    400008: headEnd 1
+    400010: headMid
+    400012: headMid 1
+    400014: headStart
+    400016: headStart 1
+    400018: hitBoxes
+    400020: mainControl
+    400022: mesh
+    400024: pCube2
+    400026: pCube3
+    400028: pCube4
+    400030: pullUpJoint
+    400032: shell
+    400034: shellJoint
+    400036: //RootNode
+    400038: snailShell3
+    400040: tailEnd
+    400042: tailEnd 1
+    400044: tailMid
+    400046: tailMid 1
+    400048: tailStart
+    400050: tailStart 1
+    2300000: pCube2
+    2300002: pCube3
+    2300004: pCube4
+    3300000: pCube2
+    3300002: pCube3
+    3300004: pCube4
+    4300000: tailEnd
+    4300002: tailMid
+    4300004: tailStart
+    4300006: shell
+    4300008: bodyCenter
+    4300010: headStart
+    4300012: headMid
+    4300014: headEnd
+    4300016: flatSnail1
+    4300018: snailShell3
+    4300020: pCube2
+    4300022: pCube3
+    4300024: pCube4
+    7400000: shell_anim
+    7400002: Take 0010
+    9500000: //RootNode
+    13700000: bodyCenter
+    13700002: flatSnail1
+    13700004: headEnd
+    13700006: headMid
+    13700008: headStart
+    13700010: shell
+    13700012: snailShell3
+    13700014: tailEnd
+    13700016: tailMid
+    13700018: tailStart
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: shell_anim
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: hitBoxes
+        weight: 1
+      - path: hitBoxes/bodyCenter
+        weight: 1
+      - path: hitBoxes/headEnd
+        weight: 1
+      - path: hitBoxes/headMid
+        weight: 1
+      - path: hitBoxes/headStart
+        weight: 1
+      - path: hitBoxes/shell
+        weight: 1
+      - path: hitBoxes/tailEnd
+        weight: 1
+      - path: hitBoxes/tailMid
+        weight: 1
+      - path: hitBoxes/tailStart
+        weight: 1
+      - path: mainControl
+        weight: 1
+      - path: mainControl/headStart 1
+        weight: 1
+      - path: mainControl/headStart 1/headMid 1
+        weight: 1
+      - path: mainControl/headStart 1/headMid 1/headEnd 1
+        weight: 1
+      - path: mainControl/shellJoint
+        weight: 1
+      - path: mainControl/shellJoint/pullUpJoint
+        weight: 1
+      - path: mainControl/shellJoint/pullUpJoint/bodyCenter 1
+        weight: 1
+      - path: mainControl/shellJoint/pullUpJoint/bodyCenter 1/tailStart 1
+        weight: 1
+      - path: mainControl/shellJoint/pullUpJoint/bodyCenter 1/tailStart 1/tailMid
+          1
+        weight: 1
+      - path: mainControl/shellJoint/pullUpJoint/bodyCenter 1/tailStart 1/tailMid
+          1/tailEnd 1
+        weight: 1
+      - path: mesh
+        weight: 1
+      - path: mesh/flatSnail1
+        weight: 1
+      - path: mesh/snailShell3
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
