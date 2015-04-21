@@ -13,81 +13,47 @@ public class checkPoint : MonoBehaviour {
 
 	public int checkPointNum;
 
+	private bool backingUp = false;
+
 	void Start(){
 		checkpoints = GameObject.FindGameObjectsWithTag("Checkpoint").OrderBy( go => go.name ).ToArray();
 	}
 
 	void Update () {
-				
-		/*
-		if(Player.transform.position.x > this.transform.position.x && isActive == false){
-			foreach(GameObject checkpoint in checkpoints){
-				if(checkpoint == this.gameObject){continue;}
-				Destroy(checkpoint);
-			}
-			isActive = true;
-			this.tag = "Checkpoint";
-		}
-		else{
-			isActive = false;
-		}
-		*/
-
 		if(Input.GetKeyDown (KeyCode.Return) && isActive == true){
-			foreach(GameObject checkpoint in checkpoints){
-				//if(checkpoint == this.gameObject){continue;}
-				if(checkpoint.GetComponent<checkPoint>().checkPointNum == (this.checkPointNum + 1) && this.isActive == true){
-					//checkpoint.tag = "Checkpoint";
-					//if(checkpoint.GetComponent<checkPoint>().isActive == false){
-					checkpoint.GetComponent<checkPoint>().isActive = true;
-					//Respawn ();
-					break;
-					//}
-				}
-			}
+			checkpoints[checkPointNum].GetComponent<checkPoint>().isActive = true;
 			isActive = false;
 			Respawn ();
-			/*
-			if(isActive == true){
-				Destroy(gameObject);
-			}
-
-			if(this.tag == "Checkpoint"){
-				Destroy(gameObject);
-			}
-			*/
-
+		}
+		if(Input.GetKeyDown (KeyCode.Backspace) && isActive == true){
+			checkpoints[checkPointNum-2].GetComponent<checkPoint>().isActive = true;
+			backingUp = true;
+			Respawn ();
 		}
 	}
 
 	public void Respawn(){;
-		Player = GameObject.FindGameObjectsWithTag("Player");
-		foreach(GameObject checkpoint in checkpoints){
-			if(checkpoint.GetComponent<checkPoint>().isActive == true){
+				Player = GameObject.FindGameObjectsWithTag("Player");
+
 				foreach(GameObject player in Player){
-				Destroy(player);
+					Destroy(player);
 				}
-				Instantiate (snailPrefab, checkpoint.transform.position, snailPrefab.transform.rotation);
-				break;
-			}
-		}
-		/*
-		if(this.tag == "Checkpoint"){
-			Instantiate (snailPrefab, transform.position, snailPrefab.transform.rotation);
-		}
-		*/
+				if(isActive == false){
+					Instantiate (snailPrefab, checkpoints[checkPointNum].transform.position, snailPrefab.transform.rotation);
+				}	
+				else if(backingUp == true){
+					isActive = false;
+					Instantiate (snailPrefab, checkpoints[checkPointNum-2].transform.position, snailPrefab.transform.rotation);
+				}
+				else{
+					Instantiate (snailPrefab, checkpoints[checkPointNum-1].transform.position, snailPrefab.transform.rotation);
+				}
 	}
 
 	void OnTriggerEnter(Collider c){
-		//if(c.tag == "shell" && isActive == false){
 			foreach(GameObject checkpoint in checkpoints){
-				//if(checkpoint == this.gameObject){continue;}
-				//if(checkpoint.GetComponent<checkPoint>().isActive == true){
 					checkpoint.GetComponent<checkPoint>().isActive = false;
-				//}
 			}
 			isActive = true;
-			//this.tag = "Checkpoint";
-		//}
 	}
 }

@@ -35,7 +35,13 @@ public class ShellControl : MonoBehaviour {
     void OnTriggerEnter(Collider other){
         Debug.Log("Hit the collider");
         if(other.gameObject.tag == "death"){ 
-			GameObject.FindWithTag("Checkpoint").GetComponent<checkPoint>().Respawn();
+			foreach(GameObject checkpoint in GameObject.FindGameObjectsWithTag("Checkpoint")){
+				if(checkpoint.GetComponent<checkPoint>().isActive == true){
+					checkpoint.GetComponent<checkPoint>().Respawn();
+					break;
+				}
+			}
+			//GameObject.FindWithTag("Checkpoint").GetComponent<checkPoint>().Respawn();
         }
         if(other.gameObject.tag == "Finish"){
             youWin = true;
