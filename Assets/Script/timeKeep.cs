@@ -18,6 +18,6 @@ public class timeKeep : MonoBehaviour {
 		}
 		minutes = Mathf.Floor(time/60);
 		seconds = Mathf.RoundToInt (time%60);
-		timer.text = minutes.ToString () + "m " + seconds.ToString () + "s";
+		timer.text = " " + minutes.ToString () + ":" + seconds.ToString () + "";
 	}
 }

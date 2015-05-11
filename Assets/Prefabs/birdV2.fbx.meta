@@ -1,17 +1,33 @@
 fileFormatVersion: 2
-guid: 93915b7e4b668444f9fce2dce5503af7
-timeCreated: 1430790019
+guid: bb16fa0352df3e0468dcf7ef30f80984
+timeCreated: 1430951875
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: Group002
-    100002: //RootNode
-    400000: Group002
-    400002: //RootNode
-    2300000: Group002
-    3300000: Group002
-    4300000: Group002
+    100000: bird:body
+    100002: bird:eye
+    100004: bird:eye1
+    100006: //RootNode
+    100008: joint1
+    100010: joint2
+    100012: joint3
+    100014: joint4
+    400000: bird:body
+    400002: bird:eye
+    400004: bird:eye1
+    400006: //RootNode
+    400008: joint1
+    400010: joint2
+    400012: joint3
+    400014: joint4
+    4300000: bird:eye
+    4300002: bird:body
+    4300004: bird:eye1
+    9500000: //RootNode
+    13700000: bird:body
+    13700002: bird:eye
+    13700004: bird:eye1
   materials:
     importMaterials: 1
     materialName: 0
@@ -31,7 +47,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 550
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
@@ -65,7 +81,7 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   additionalBone: 0
   userData: 
   assetBundleName: 
