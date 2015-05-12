@@ -1,17 +1,17 @@
 fileFormatVersion: 2
-guid: 93915b7e4b668444f9fce2dce5503af7
-timeCreated: 1431394624
+guid: 85ff4a6ce44c3684388708f45f61232c
+timeCreated: 1431394573
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: Group002
-    100002: //RootNode
-    400000: Group002
-    400002: //RootNode
-    2300000: Group002
-    3300000: Group002
-    4300000: Group002
+    100000: //RootNode
+    400000: //RootNode
+    4300000: Grass
+    7400000: PrototypeLevel24
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -27,7 +27,35 @@ ModelImporter:
     animationScaleError: .5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PrototypeLevel24
+      takeName: PrototypeLevel24
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -65,7 +93,7 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
