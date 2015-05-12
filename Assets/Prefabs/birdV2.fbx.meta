@@ -7,11 +7,34 @@ ModelImporter:
   fileIDToRecycleName:
     100000: Group002
     100002: //RootNode
+    100004: bird:body
+    100006: bird:eye
+    100008: bird:eye1
+    100010: joint1
+    100012: joint2
+    100014: joint3
+    100016: joint4
     400000: Group002
     400002: //RootNode
+    400004: bird:body
+    400006: bird:eye
+    400008: bird:eye1
+    400010: joint1
+    400012: joint2
+    400014: joint3
+    400016: joint4
     2300000: Group002
+    2300002: bird:body
+    2300004: bird:eye
+    2300006: bird:eye1
     3300000: Group002
+    3300002: bird:body
+    3300004: bird:eye
+    3300006: bird:eye1
     4300000: Group002
+    4300002: bird:eye
+    4300004: bird:body
+    4300006: bird:eye1
   materials:
     importMaterials: 1
     materialName: 0
@@ -31,7 +54,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 400
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
