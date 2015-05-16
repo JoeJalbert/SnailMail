@@ -70,7 +70,7 @@ public class SnailControl : MonoBehaviour {
 			h = speed * Input.GetAxis ("Mouse X") * (stretchSlider.value / 20) ;
 		}
 		else{
-			h = speed * Input.GetAxis ("Mouse X");
+			h = speed * Input.GetAxis ("Mouse X") * Time.deltaTime;
 		}
 		//v = verticalSpeed * Input.GetAxis ("Mouse Y") ;
 

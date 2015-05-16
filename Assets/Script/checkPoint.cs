@@ -15,6 +15,10 @@ public class checkPoint : MonoBehaviour {
 
 	private bool backingUp = false;
 
+	public bool hasBeenTouched;
+
+	public GameObject letterCanvas;
+
 	void Start(){
 		checkpoints = GameObject.FindGameObjectsWithTag("Checkpoint").OrderBy( go => go.name ).ToArray();
 	}
@@ -54,6 +58,13 @@ public class checkPoint : MonoBehaviour {
 			foreach(GameObject checkpoint in checkpoints){
 					checkpoint.GetComponent<checkPoint>().isActive = false;
 			}
+		if(hasBeenTouched == false && c.tag == "shell" || c.tag == "head"){
+			Instantiate(letterCanvas, new Vector3(0,0,0), Quaternion.identity);
+			hasBeenTouched = true;
+			PlayerPrefs.SetInt ("CheckpointProgress", checkPointNum - 1);
+		}
+		if(c.tag == "shell" || c.tag == "head"){
 			isActive = true;
+		}
 	}
 }
