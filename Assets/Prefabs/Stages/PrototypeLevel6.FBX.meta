@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: c219c331003098947a58beb83217b09a
-timeCreated: 1431410239
+guid: 1b868038afec972478576d27b8a1a2e9
+timeCreated: 1431906934
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: NewTerrain
+    4300000: NewTerrain001
   materials:
     importMaterials: 1
     materialName: 0
