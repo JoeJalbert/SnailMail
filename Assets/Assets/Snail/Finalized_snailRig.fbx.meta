@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 0b3c908bf3baef545a331a7737b80e90
+timeCreated: 1432593525
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bodyCenter
+    100002: bodyCenter 1
+    100004: eye1
+    100006: eye2
+    100008: //RootNode
+    100010: headEnd
+    100012: headEnd 1
+    100014: headMid
+    100016: headMid 1
+    100018: headStart
+    100020: headStart 1
+    100022: hitBoxes
+    100024: mainControl
+    100026: pullUpJoint
+    100028: shell
+    100030: shellJoint
+    100032: snailBody
+    100034: snailMesh
+    100036: snailShell2:polySurface1
+    100038: tailEnd
+    100040: tailEnd 1
+    100042: tailMid
+    100044: tailMid 1
+    100046: tailStart
+    100048: tailStart 1
+    400000: bodyCenter
+    400002: bodyCenter 1
+    400004: eye1
+    400006: eye2
+    400008: //RootNode
+    400010: headEnd
+    400012: headEnd 1
+    400014: headMid
+    400016: headMid 1
+    400018: headStart
+    400020: headStart 1
+    400022: hitBoxes
+    400024: mainControl
+    400026: pullUpJoint
+    400028: shell
+    400030: shellJoint
+    400032: snailBody
+    400034: snailMesh
+    400036: snailShell2:polySurface1
+    400038: tailEnd
+    400040: tailEnd 1
+    400042: tailMid
+    400044: tailMid 1
+    400046: tailStart
+    400048: tailStart 1
+    4300000: tailEnd
+    4300002: tailMid
+    4300004: tailStart
+    4300006: shell
+    4300008: bodyCenter
+    4300010: headStart
+    4300012: headMid
+    4300014: headEnd
+    4300016: eye2
+    4300018: eye1
+    4300020: snailShell2:polySurface1
+    4300022: snailBody
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: bodyCenter
+    13700002: eye1
+    13700004: eye2
+    13700006: headEnd
+    13700008: headMid
+    13700010: headStart
+    13700012: shell
+    13700014: snailBody
+    13700016: snailShell2:polySurface1
+    13700018: tailEnd
+    13700020: tailMid
+    13700022: tailStart
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
