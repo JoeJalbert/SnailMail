@@ -58,7 +58,7 @@ public class checkPoint : MonoBehaviour {
 			foreach(GameObject checkpoint in checkpoints){
 					checkpoint.GetComponent<checkPoint>().isActive = false;
 			}
-		if(hasBeenTouched == false && c.tag == "shell" || c.tag == "head"){
+		if(hasBeenTouched == false && (c.tag == "shell" || c.tag == "head")){
 			Instantiate(letterCanvas, new Vector3(0,0,0), Quaternion.identity);
 			hasBeenTouched = true;
 			PlayerPrefs.SetInt ("CheckpointProgress", checkPointNum - 1);
