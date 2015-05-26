@@ -37,6 +37,9 @@ public class SnailControl : MonoBehaviour {
     public HingeJoint[] hingeJoints;
 
 	public Slider stretchSlider;
+
+	public AudioClip stickSound;
+	AudioSource audio;
 	
     void Start () {
         onGround = true;
@@ -44,6 +47,7 @@ public class SnailControl : MonoBehaviour {
 		stretchSlider = GameObject.Find("Stretch_Slider").GetComponent<Slider>();
 		stretchSlider.value = 20;
 
+		audio = GetComponent<AudioSource>();
 	}
     
 	void Update () {
@@ -75,8 +79,17 @@ public class SnailControl : MonoBehaviour {
 		//v = verticalSpeed * Input.GetAxis ("Mouse Y") ;
 
 		newMousePos = Input.mousePosition;
-		newMousePos.z = 10;
-		newMousePos = Camera.main.ScreenToWorldPoint(newMousePos);
+		//newMousePos.z = 10;
+		//newMousePos = Camera.main.ScreenToWorldPoint(newMousePos);
+
+		if (Input.GetKeyDown(KeyCode.Mouse0))
+		{
+			RaycastHit rayHit;
+			if(Physics.Raycast(Camera.main.ScreenPointToRay(Input.mousePosition), out rayHit))
+			{
+				newMousePos = rayHit.point;
+			}
+		}
 
 		//distFromBod = Vector3.Distance(transform.position, shellCurrent.transform.position);
 		//GameObject.Find ("_headMid").GetComponent<CapsuleCollider> ().height = distFromBod * .5f;
@@ -134,6 +147,7 @@ public class SnailControl : MonoBehaviour {
             Instantiate(colDisplay, hit.point, Quaternion.identity);
             
             if(Input.GetButton(input) != true && hit.collider.tag == "Ground" && onGround == false){
+				audio.PlayOneShot (stickSound, .4f);
                 var joint = gameObject.AddComponent<HingeJoint>();
                 joint.connectedBody = hit.rigidbody;
 				joint.enablePreprocessing = false;
