@@ -1,0 +1,74 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTS 450 (ID=0xdc4)
+    Vendor:   NVIDIA
+    VRAM:     971 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Joe Jal\Desktop\Drexel\2015 Winter\Advanced Game Design I\BitBucket\Builds\Windows\iteration3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Joe Jal\Desktop\Drexel\2015 Winter\Advanced Game Design I\BitBucket\Builds\Windows\iteration3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Joe Jal\Desktop\Drexel\2015 Winter\Advanced Game Design I\BitBucket\Builds\Windows\iteration3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Joe Jal\Desktop\Drexel\2015 Winter\Advanced Game Design I\BitBucket\Builds\Windows\iteration3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Joe Jal\Desktop\Drexel\2015 Winter\Advanced Game Design I\BitBucket\Builds\Windows\iteration3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Joe Jal\Desktop\Drexel\2015 Winter\Advanced Game Design I\BitBucket\Builds\Windows\iteration3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+desktop: 1920x1080 60Hz; virtual: 3200x1208 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Joe Jal\Desktop\Drexel\2015 Winter\Advanced Game Design I\BitBucket\Builds\Windows\iteration3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Joe Jal\Desktop\Drexel\2015 Winter\Advanced Game Design I\BitBucket\Builds\Windows\iteration3_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 4.623853 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 839.
+Total: 0.997243 ms (FindLiveObjects: 0.088526 ms CreateObjectMapping: 0.019489 ms MarkObjects: 0.253687 ms  DeleteObjects: 0.061770 ms)
+
+Hit the collider
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hit the collider
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hit the collider
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hit the collider
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hit the collider
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hit the collider
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hit the collider
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hit the collider
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hit the collider
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hit the collider
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hit the collider
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hit the collider
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+

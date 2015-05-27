@@ -78,7 +78,7 @@ public class SnailControl : MonoBehaviour {
 		}
 		//v = verticalSpeed * Input.GetAxis ("Mouse Y") ;
 
-		newMousePos = Input.mousePosition;
+		//newMousePos = Input.mousePosition;
 		//newMousePos.z = 10;
 		//newMousePos = Camera.main.ScreenToWorldPoint(newMousePos);
 
