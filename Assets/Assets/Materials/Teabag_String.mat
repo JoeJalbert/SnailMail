@@ -6,9 +6,9 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: dirt 1
+  m_Name: Teabag_String
   m_Shader: {fileID: 4800000, guid: 76374158b4c4e5744b394e9290aae693, type: 3}
-  m_ShaderKeywords: _COLOR_ON _DS_ON _OUTL_ON
+  m_ShaderKeywords: _COLOR_ON _OUTL_ON
   m_LightmapFlags: 5
   m_CustomRenderQueue: -1
   m_SavedProperties:
@@ -140,7 +140,7 @@ Material:
       data:
         first:
           name: _Cull
-        second: 0
+        second: 2
       data:
         first:
           name: _Outl
@@ -164,11 +164,11 @@ Material:
       data:
         first:
           name: _DS
-        second: 1
+        second: 0
       data:
         first:
           name: _Outline
-        second: 160
+        second: .0399999991
       data:
         first:
           name: _Asym
@@ -189,7 +189,7 @@ Material:
       data:
         first:
           name: _Color
-        second: {r: .257352948, g: .175103262, b: .10975346, a: 1}
+        second: {r: .272058845, g: .272058845, b: .272058845, a: 1}
       data:
         first:
           name: _EmissionColorUI
