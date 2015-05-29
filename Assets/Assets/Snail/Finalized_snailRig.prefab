@@ -673,7 +673,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 146032}
   m_LocalRotation: {x: 0, y: .707106829, z: 0, w: .707106709}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 75.4199982, y: 4.76000023, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 444134}
@@ -872,7 +872,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 4.82573554e-08, y: .700969636, z: 1.91173613}
+  m_ConnectedAnchor: {x: 4.82577533e-08, y: .700969636, z: 1.91173279}
   m_UseSpring: 0
   m_Spring:
     spring: 0
@@ -904,7 +904,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -3.94430453e-31, y: -5.22541046, z: .0318590999}
+  m_ConnectedAnchor: {x: -1.38777878e-17, y: -5.22541046, z: .0318590999}
   m_UseSpring: 0
   m_Spring:
     spring: 0
@@ -936,7 +936,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -4.55124223e-08, y: .382347107, z: -3.0587759}
+  m_ConnectedAnchor: {x: -4.5512337e-08, y: .382347107, z: -3.05877662}
   m_UseSpring: 0
   m_Spring:
     spring: 0
@@ -968,7 +968,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 3.537372e-08, y: -.0955867022, z: 2.13477135}
+  m_ConnectedAnchor: {x: 3.53738052e-08, y: -.0955867022, z: 2.13477063}
   m_UseSpring: 0
   m_Spring:
     spring: 0
@@ -1000,7 +1000,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: .565214157, z: 3.91890645}
+  m_ConnectedAnchor: {x: -5.68434189e-14, y: .565214157, z: 3.91890693}
   m_UseSpring: 0
   m_Spring:
     spring: 0
@@ -1344,7 +1344,7 @@ SkinnedMeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 2100000, guid: 5023aae1af3d02049bd19a5397533751, type: 2}
+  - {fileID: 2100000, guid: 215977489d11178d11005b9844295342, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
@@ -1387,7 +1387,7 @@ SkinnedMeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 2100000, guid: 77333b290d017c74dbdde3a5c5588b1c, type: 2}
+  - {fileID: 2100000, guid: ff2ad217be805c74ab7af9f06f842751, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
@@ -1758,7 +1758,7 @@ SpringJoint:
   m_ConnectedBody: {fileID: 5472170}
   m_Anchor: {x: 0, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -3.59496188e-16, y: -.225888699, z: 3.67327547}
+  m_ConnectedAnchor: {x: -3.41420008e-13, y: -.225888699, z: 3.67327833}
   m_Spring: 10
   m_Damper: 10
   m_MinDistance: 0
@@ -1776,7 +1776,7 @@ SpringJoint:
   m_ConnectedBody: {fileID: 5442912}
   m_Anchor: {x: 0, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -.0402450562, z: 3.20622849}
+  m_ConnectedAnchor: {x: -1.70530257e-13, y: -.0402450562, z: 3.20622993}
   m_Spring: 10
   m_Damper: 10
   m_MinDistance: 0
