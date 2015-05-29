@@ -68,10 +68,6 @@ Material:
         second: 3
       data:
         first:
-          name: _TintColor
-        second: 1
-      data:
-        first:
           name: _Cull
         second: 0
       data:
@@ -82,6 +78,10 @@ Material:
         first:
           name: _DetailTex
         second: 0
+      data:
+        first:
+          name: _TintColor
+        second: 1
       data:
         first:
           name: _VertexColor
@@ -114,7 +114,7 @@ Material:
       data:
         first:
           name: _Color
-        second: {r: .503712952, g: .683823526, b: .417333454, a: 1}
+        second: {r: .278431386, g: .443137288, b: .235294133, a: 1}
       data:
         first:
           name: _RimColor
