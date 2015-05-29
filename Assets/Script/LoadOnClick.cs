@@ -10,6 +10,7 @@ public class LoadOnClick : MonoBehaviour {
 		loadingImage.SetActive (true);
 		Application.LoadLevel(1);
 		PlayerPrefs.SetInt ("CurrentStage", level);
+		PlayerPrefs.SetInt ("IsLoaded", 0);
 	}
 
 	public void ExitScene()
