@@ -3,13 +3,11 @@ using System.Collections;
 
 public class speedBoost : MonoBehaviour {
 
-	void Start () {
-	
-	}
+	public int rollSpeed = 150;
 
 	void OnTriggerEnter (Collider c) {
 		if(c.tag == "shell"){
-			c.GetComponent<ShellControl>().rollSpeed += 150;
+			c.GetComponent<ShellControl>().rollSpeed += rollSpeed;
 		}
 	}
 }

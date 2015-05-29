@@ -178,6 +178,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 470084}
   - 95: {fileID: 9599040}
+  - 114: {fileID: 11408126}
   m_Layer: 2
   m_Name: Finalized_snailRig
   m_TagString: Player
@@ -198,7 +199,6 @@ GameObject:
   - 114: {fileID: 11493238}
   - 114: {fileID: 11450614}
   - 145: {fileID: 14511568}
-  - 114: {fileID: 11426260}
   - 82: {fileID: 8237404}
   m_Layer: 2
   m_Name: _headEnd
@@ -673,7 +673,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 146032}
   m_LocalRotation: {x: 0, y: .707106829, z: 0, w: .707106709}
-  m_LocalPosition: {x: 83.1100006, y: 4.71999979, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 444134}
@@ -872,7 +872,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 4.82577533e-08, y: .700969636, z: 1.91173279}
+  m_ConnectedAnchor: {x: 4.82573554e-08, y: .700969636, z: 1.91173613}
   m_UseSpring: 0
   m_Spring:
     spring: 0
@@ -904,7 +904,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -1.38777878e-17, y: -5.22541046, z: .0318590999}
+  m_ConnectedAnchor: {x: -3.94430453e-31, y: -5.22541046, z: .0318590999}
   m_UseSpring: 0
   m_Spring:
     spring: 0
@@ -936,7 +936,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -4.5512337e-08, y: .382347107, z: -3.05877662}
+  m_ConnectedAnchor: {x: -4.55124223e-08, y: .382347107, z: -3.0587759}
   m_UseSpring: 0
   m_Spring:
     spring: 0
@@ -968,7 +968,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 3.53738052e-08, y: -.0955867022, z: 2.13477063}
+  m_ConnectedAnchor: {x: 3.537372e-08, y: -.0955867022, z: 2.13477135}
   m_UseSpring: 0
   m_Spring:
     spring: 0
@@ -1000,7 +1000,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -5.68434189e-14, y: .565214157, z: 3.91890693}
+  m_ConnectedAnchor: {x: 0, y: .565214157, z: 3.91890645}
   m_UseSpring: 0
   m_Spring:
     spring: 0
@@ -1108,15 +1108,15 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &11426260
+--- !u!114 &11408126
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 154728}
+  m_GameObject: {fileID: 146032}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 039f66f5f2e82624693c86c2b2598ea7, type: 3}
+  m_Script: {fileID: 11500000, guid: 851840785e168144fb6de476bd43baab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &11447894
@@ -1175,7 +1175,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24a98e83f638f064c9fe263b7cbb2b96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 500
+  speed: 20
   input: Fire1
   targetRotation: {x: 0, y: 0, z: 0, w: 0}
   wholeObject: {fileID: 146032}
@@ -1188,7 +1188,7 @@ MonoBehaviour:
   onGround: 0
   maxVelocity: 200
   distFromBod: 0
-  maxDistance: 35
+  maxDistance: 45
   gradualSpring: 0
   newMousePos: {x: 0, y: 0, z: 0}
   hingeJoints: []
@@ -1758,7 +1758,7 @@ SpringJoint:
   m_ConnectedBody: {fileID: 5472170}
   m_Anchor: {x: 0, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -3.41420008e-13, y: -.225888699, z: 3.67327833}
+  m_ConnectedAnchor: {x: -3.59496188e-16, y: -.225888699, z: 3.67327547}
   m_Spring: 10
   m_Damper: 10
   m_MinDistance: 0
@@ -1776,7 +1776,7 @@ SpringJoint:
   m_ConnectedBody: {fileID: 5442912}
   m_Anchor: {x: 0, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -1.70530257e-13, y: -.0402450562, z: 3.20622993}
+  m_ConnectedAnchor: {x: 0, y: -.0402450562, z: 3.20622849}
   m_Spring: 10
   m_Damper: 10
   m_MinDistance: 0

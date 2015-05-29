@@ -14,5 +14,7 @@ public class ZConstrain : MonoBehaviour {
 		Vector3 pos = transform.position;
 		pos.z = 0;
 		transform.position = pos;
+
+		//transform.rotation = Quaternion.Euler(transform.rotation.eulerAngles.x, 0, 0); 
 	}
 }

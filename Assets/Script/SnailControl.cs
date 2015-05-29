@@ -82,7 +82,7 @@ public class SnailControl : MonoBehaviour {
 		//newMousePos.z = 10;
 		//newMousePos = Camera.main.ScreenToWorldPoint(newMousePos);
 
-		if (Input.GetKeyDown(KeyCode.Mouse0))
+		if (Input.GetKey(KeyCode.Mouse0))
 		{
 			RaycastHit rayHit;
 			if(Physics.Raycast(Camera.main.ScreenPointToRay(Input.mousePosition), out rayHit))
@@ -119,8 +119,8 @@ public class SnailControl : MonoBehaviour {
 				GameObject.Find ("_headMid").GetComponent<SpringJoint> ().spring = 0;
 			} else {
 				transform.position = Vector3.MoveTowards (transform.position, newMousePos, speed * Time.deltaTime);
-				GameObject.Find ("_headEnd").GetComponent<SpringJoint> ().spring = 15;
-				GameObject.Find ("_headMid").GetComponent<SpringJoint> ().spring = 15;
+				GameObject.Find ("_headEnd").GetComponent<SpringJoint> ().spring = 8;
+				GameObject.Find ("_headMid").GetComponent<SpringJoint> ().spring = 8;
 			}
 
 		} else if (Input.GetKeyDown ("space")) {
@@ -139,7 +139,7 @@ public class SnailControl : MonoBehaviour {
 			GameObject.Find("_headMid").GetComponent<SpringJoint>().spring = gradualSpring;
 			GameObject.Find("_headEnd").GetComponent<SpringJoint>().spring = gradualSpring;
 			gradualSpring = Mathf.Clamp(gradualSpring, 0, 100);
-			gradualSpring += .5f;
+			gradualSpring += 5f;
 		}
 
         if(Physics.Raycast(checkRayUp, out hit, distanceFromGround) || Physics.Raycast(checkRayDown, out hit, distanceFromGround) || Physics.Raycast(checkRayLeft, out hit, distanceFromGround) || Physics.Raycast(checkRayRight, out hit, distanceFromGround)){

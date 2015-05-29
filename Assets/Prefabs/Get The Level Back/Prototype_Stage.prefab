@@ -425,7 +425,7 @@ GameObject:
   - 23: {fileID: 2360598}
   - 114: {fileID: 11464794}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: speedBooster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2578,7 +2578,7 @@ GameObject:
   - 65: {fileID: 6561970}
   - 23: {fileID: 2395472}
   m_Layer: 0
-  m_Name: death
+  m_Name: Forest_Water
   m_TagString: death
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8514,7 +8514,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 150536}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 190.643188, y: -51.0462112, z: -10}
+  m_LocalPosition: {x: -1247.58215, y: 328.087036, z: -950.459656}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 475180}
@@ -9365,8 +9365,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 105658}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 779.056824, y: -25.2537918, z: 10}
-  m_LocalScale: {x: 9.83622837, y: 26.8388481, z: 31.2392921}
+  m_LocalPosition: {x: 779.059998, y: -25.2539997, z: 10}
+  m_LocalScale: {x: 9.83622837, y: 67.0976562, z: 31.2392921}
   m_Children: []
   m_Father: {fileID: 422046}
   m_RootOrder: 20
@@ -10149,7 +10149,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 164002}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -146.393188, y: 33.7462082, z: 7.09999847}
+  m_LocalPosition: {x: -114.400002, y: 59.2000008, z: 7.0999999}
   m_LocalScale: {x: 1.25000119, y: 1.25, z: 1.25}
   m_Children: []
   m_Father: {fileID: 422046}
@@ -11238,7 +11238,7 @@ Transform:
   m_GameObject: {fileID: 135072}
   m_LocalRotation: {x: 4.80599414e-11, y: -8.78086015e-13, z: -.00173327699, w: .99999851}
   m_LocalPosition: {x: 897, y: -132, z: 49.5999985}
-  m_LocalScale: {x: 96.1891861, y: 27.5065651, z: 18.4448891}
+  m_LocalScale: {x: 96.1891861, y: 27.5065651, z: 22.2444935}
   m_Children: []
   m_Father: {fileID: 400110}
   m_RootOrder: 1
@@ -24995,7 +24995,7 @@ MonoBehaviour:
   Player: []
   isActive: 0
   checkpoints: []
-  snailPrefab: {fileID: 167964, guid: f0adc42417054824aa4c51d369ca5105, type: 2}
+  snailPrefab: {fileID: 146032, guid: 9ff29c97cf95f314082dba178ce85238, type: 2}
   checkPointNum: 6
   hasBeenTouched: 0
   letterCanvas: {fileID: 176280, guid: 056143a4c5356074ab3c9bd99551fe49, type: 2}
@@ -25013,7 +25013,7 @@ MonoBehaviour:
   Player: []
   isActive: 0
   checkpoints: []
-  snailPrefab: {fileID: 167964, guid: f0adc42417054824aa4c51d369ca5105, type: 2}
+  snailPrefab: {fileID: 146032, guid: 9ff29c97cf95f314082dba178ce85238, type: 2}
   checkPointNum: 5
   hasBeenTouched: 0
   letterCanvas: {fileID: 176280, guid: baeb877fe075ef94bbc57ee4691909c8, type: 2}
@@ -25031,7 +25031,7 @@ MonoBehaviour:
   Player: []
   isActive: 0
   checkpoints: []
-  snailPrefab: {fileID: 167964, guid: f0adc42417054824aa4c51d369ca5105, type: 2}
+  snailPrefab: {fileID: 146032, guid: 9ff29c97cf95f314082dba178ce85238, type: 2}
   checkPointNum: 9
   hasBeenTouched: 0
   letterCanvas: {fileID: 0}
@@ -25061,7 +25061,7 @@ MonoBehaviour:
   Player: []
   isActive: 0
   checkpoints: []
-  snailPrefab: {fileID: 167964, guid: f0adc42417054824aa4c51d369ca5105, type: 2}
+  snailPrefab: {fileID: 146032, guid: 9ff29c97cf95f314082dba178ce85238, type: 2}
   checkPointNum: 1
   hasBeenTouched: 0
   letterCanvas: {fileID: 0}
@@ -25129,7 +25129,7 @@ MonoBehaviour:
   Player: []
   isActive: 0
   checkpoints: []
-  snailPrefab: {fileID: 167964, guid: f0adc42417054824aa4c51d369ca5105, type: 2}
+  snailPrefab: {fileID: 146032, guid: 9ff29c97cf95f314082dba178ce85238, type: 2}
   checkPointNum: 2
   hasBeenTouched: 0
   letterCanvas: {fileID: 176280, guid: d3f59a3e0803857439c574228dda9ea0, type: 2}
@@ -25147,7 +25147,7 @@ MonoBehaviour:
   Player: []
   isActive: 0
   checkpoints: []
-  snailPrefab: {fileID: 167964, guid: f0adc42417054824aa4c51d369ca5105, type: 2}
+  snailPrefab: {fileID: 146032, guid: 9ff29c97cf95f314082dba178ce85238, type: 2}
   checkPointNum: 7
   hasBeenTouched: 0
   letterCanvas: {fileID: 176280, guid: 3dfac81800262254288f9f4eb6c97ff8, type: 2}
@@ -25165,7 +25165,7 @@ MonoBehaviour:
   Player: []
   isActive: 0
   checkpoints: []
-  snailPrefab: {fileID: 167964, guid: f0adc42417054824aa4c51d369ca5105, type: 2}
+  snailPrefab: {fileID: 146032, guid: 9ff29c97cf95f314082dba178ce85238, type: 2}
   checkPointNum: 8
   hasBeenTouched: 0
   letterCanvas: {fileID: 0}
@@ -25180,6 +25180,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15d6172d249d01c4ebe6451072e78d3b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rollSpeed: 500
 --- !u!114 &11467720
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -25208,7 +25209,7 @@ MonoBehaviour:
   Player: []
   isActive: 0
   checkpoints: []
-  snailPrefab: {fileID: 167964, guid: f0adc42417054824aa4c51d369ca5105, type: 2}
+  snailPrefab: {fileID: 146032, guid: 9ff29c97cf95f314082dba178ce85238, type: 2}
   checkPointNum: 4
   hasBeenTouched: 0
   letterCanvas: {fileID: 176280, guid: 725fbee4d83ba024580c44cda55e063e, type: 2}
@@ -25238,7 +25239,7 @@ MonoBehaviour:
   Player: []
   isActive: 0
   checkpoints: []
-  snailPrefab: {fileID: 167964, guid: f0adc42417054824aa4c51d369ca5105, type: 2}
+  snailPrefab: {fileID: 146032, guid: 9ff29c97cf95f314082dba178ce85238, type: 2}
   checkPointNum: 3
   hasBeenTouched: 0
   letterCanvas: {fileID: 176280, guid: 7a1a91a962db3874d9f66892248d1fe0, type: 2}
