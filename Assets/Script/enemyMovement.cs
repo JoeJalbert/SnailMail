@@ -19,8 +19,14 @@ public class enemyMovement : MonoBehaviour {
      	if(c.gameObject.tag == "Ground"){
       		movementDirection *= -1;   
      	}
+
 		if(c.gameObject.tag == "head" || c.gameObject.tag == "shell"){
-			GameObject.FindWithTag("Checkpoint").GetComponent<checkPoint>().Respawn();
+			foreach(GameObject checkpoint in GameObject.FindGameObjectsWithTag("Checkpoint")){
+				if(checkpoint.GetComponent<checkPoint>().isActive == true){
+					checkpoint.GetComponent<checkPoint>().Respawn();
+					break;
+				}
+			}
 		}
     }
 }

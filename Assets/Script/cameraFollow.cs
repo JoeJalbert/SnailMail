@@ -25,5 +25,6 @@ public class cameraFollow : MonoBehaviour {
         //GetComponent<Camera>().orthographicSize = zoomer;
 		GetComponent<Camera>().fieldOfView = zoomer;
         zoomer += Input.GetAxis("Mouse ScrollWheel") * -5;
+		zoomer = Mathf.Clamp (zoomer, 4, 20);
 	}
 }

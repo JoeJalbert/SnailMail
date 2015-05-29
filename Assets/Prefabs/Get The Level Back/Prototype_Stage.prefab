@@ -11,7 +11,7 @@ GameObject:
   - 33: {fileID: 3302968}
   - 135: {fileID: 13515958}
   - 23: {fileID: 2375716}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 66
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -101,7 +101,7 @@ GameObject:
   - 33: {fileID: 3320850}
   - 135: {fileID: 13539374}
   - 23: {fileID: 2330462}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 99
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -175,7 +175,7 @@ GameObject:
   - 33: {fileID: 3350398}
   - 135: {fileID: 13567642}
   - 23: {fileID: 2361916}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -211,7 +211,7 @@ GameObject:
   - 33: {fileID: 3309952}
   - 135: {fileID: 13532192}
   - 23: {fileID: 2352628}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 50
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -229,7 +229,7 @@ GameObject:
   - 33: {fileID: 3321132}
   - 135: {fileID: 13570180}
   - 23: {fileID: 2360672}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 131
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -247,7 +247,7 @@ GameObject:
   - 33: {fileID: 3315804}
   - 135: {fileID: 13505878}
   - 23: {fileID: 2379170}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 125
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -265,7 +265,7 @@ GameObject:
   - 33: {fileID: 3321910}
   - 135: {fileID: 13545828}
   - 23: {fileID: 2343204}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 67
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -283,7 +283,7 @@ GameObject:
   - 33: {fileID: 3353950}
   - 135: {fileID: 13518152}
   - 23: {fileID: 2391772}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -319,7 +319,7 @@ GameObject:
   - 33: {fileID: 3334294}
   - 135: {fileID: 13522350}
   - 23: {fileID: 2346500}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 51
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -352,7 +352,7 @@ GameObject:
   - 33: {fileID: 3331494}
   - 135: {fileID: 13538600}
   - 23: {fileID: 2322456}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 143
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -370,7 +370,7 @@ GameObject:
   - 33: {fileID: 3372924}
   - 135: {fileID: 13594736}
   - 23: {fileID: 2325692}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 74
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -549,7 +549,7 @@ GameObject:
   - 33: {fileID: 3343662}
   - 135: {fileID: 13537878}
   - 23: {fileID: 2303146}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 70
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -585,7 +585,7 @@ GameObject:
   - 33: {fileID: 3338762}
   - 135: {fileID: 13583564}
   - 23: {fileID: 2331008}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 149
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -654,7 +654,7 @@ GameObject:
   - 33: {fileID: 3348368}
   - 135: {fileID: 13567928}
   - 23: {fileID: 2301444}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 55
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -672,7 +672,7 @@ GameObject:
   - 33: {fileID: 3305478}
   - 135: {fileID: 13581286}
   - 23: {fileID: 2392944}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -726,7 +726,7 @@ GameObject:
   - 33: {fileID: 3379964}
   - 135: {fileID: 13508912}
   - 23: {fileID: 2348760}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 129
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -762,7 +762,7 @@ GameObject:
   - 33: {fileID: 3385694}
   - 135: {fileID: 13573284}
   - 23: {fileID: 2357392}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 108
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -798,7 +798,7 @@ GameObject:
   - 33: {fileID: 3323144}
   - 135: {fileID: 13529072}
   - 23: {fileID: 2385156}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 33
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -886,7 +886,7 @@ GameObject:
   - 33: {fileID: 3347616}
   - 135: {fileID: 13574486}
   - 23: {fileID: 2366086}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 150
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -940,7 +940,7 @@ GameObject:
   - 33: {fileID: 3336892}
   - 135: {fileID: 13595584}
   - 23: {fileID: 2359184}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 145
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -991,7 +991,7 @@ GameObject:
   - 33: {fileID: 3389762}
   - 135: {fileID: 13556930}
   - 23: {fileID: 2377956}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 103
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1045,7 +1045,7 @@ GameObject:
   - 33: {fileID: 3318206}
   - 135: {fileID: 13505102}
   - 23: {fileID: 2369634}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 163
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1276,7 +1276,7 @@ GameObject:
   - 33: {fileID: 3332830}
   - 135: {fileID: 13511834}
   - 23: {fileID: 2379464}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 139
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1294,7 +1294,7 @@ GameObject:
   - 33: {fileID: 3393112}
   - 135: {fileID: 13551646}
   - 23: {fileID: 2349156}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 130
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1312,7 +1312,7 @@ GameObject:
   - 33: {fileID: 3386994}
   - 135: {fileID: 13515166}
   - 23: {fileID: 2347118}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 64
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1330,7 +1330,7 @@ GameObject:
   - 33: {fileID: 3309350}
   - 135: {fileID: 13563294}
   - 23: {fileID: 2376350}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 113
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1456,7 +1456,7 @@ GameObject:
   - 33: {fileID: 3384692}
   - 135: {fileID: 13541946}
   - 23: {fileID: 2392730}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 84
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1474,7 +1474,7 @@ GameObject:
   - 33: {fileID: 3386128}
   - 135: {fileID: 13502892}
   - 23: {fileID: 2328736}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1492,7 +1492,7 @@ GameObject:
   - 33: {fileID: 3374426}
   - 135: {fileID: 13565914}
   - 23: {fileID: 2342726}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 83
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1517,6 +1517,24 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1 &122184
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 490762}
+  - 33: {fileID: 3332186}
+  - 65: {fileID: 6591516}
+  - 23: {fileID: 2328740}
+  m_Layer: 0
+  m_Name: kitchen_death 1
+  m_TagString: death
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &122366
 GameObject:
   m_ObjectHideFlags: 1
@@ -1528,7 +1546,7 @@ GameObject:
   - 33: {fileID: 3311298}
   - 135: {fileID: 13539958}
   - 23: {fileID: 2313206}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 141
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1582,7 +1600,7 @@ GameObject:
   - 33: {fileID: 3354162}
   - 135: {fileID: 13584510}
   - 23: {fileID: 2316578}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1618,7 +1636,7 @@ GameObject:
   - 33: {fileID: 3399714}
   - 135: {fileID: 13528730}
   - 23: {fileID: 2307864}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1636,7 +1654,7 @@ GameObject:
   - 33: {fileID: 3350876}
   - 135: {fileID: 13540416}
   - 23: {fileID: 2386192}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 59
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1687,7 +1705,7 @@ GameObject:
   - 33: {fileID: 3305766}
   - 135: {fileID: 13587398}
   - 23: {fileID: 2367766}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 121
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1705,7 +1723,7 @@ GameObject:
   - 33: {fileID: 3325408}
   - 135: {fileID: 13563080}
   - 23: {fileID: 2373442}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 161
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1759,7 +1777,7 @@ GameObject:
   - 33: {fileID: 3369812}
   - 135: {fileID: 13577844}
   - 23: {fileID: 2358968}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 115
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1795,7 +1813,7 @@ GameObject:
   - 33: {fileID: 3384610}
   - 135: {fileID: 13518850}
   - 23: {fileID: 2390046}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1813,7 +1831,7 @@ GameObject:
   - 33: {fileID: 3328014}
   - 135: {fileID: 13567342}
   - 23: {fileID: 2353178}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 123
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1903,7 +1921,7 @@ GameObject:
   - 33: {fileID: 3314486}
   - 135: {fileID: 13526038}
   - 23: {fileID: 2347006}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 100
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1954,7 +1972,7 @@ GameObject:
   - 33: {fileID: 3373908}
   - 135: {fileID: 13571508}
   - 23: {fileID: 2322936}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 78
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1972,7 +1990,7 @@ GameObject:
   - 33: {fileID: 3349134}
   - 135: {fileID: 13521572}
   - 23: {fileID: 2399352}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 86
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2005,7 +2023,7 @@ GameObject:
   - 33: {fileID: 3365956}
   - 135: {fileID: 13544808}
   - 23: {fileID: 2352852}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 36
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2128,7 +2146,7 @@ GameObject:
   - 33: {fileID: 3380156}
   - 135: {fileID: 13517576}
   - 23: {fileID: 2315190}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 45
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2146,7 +2164,7 @@ GameObject:
   - 33: {fileID: 3333080}
   - 135: {fileID: 13513664}
   - 23: {fileID: 2338300}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 135
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2200,7 +2218,7 @@ GameObject:
   - 33: {fileID: 3342366}
   - 135: {fileID: 13528346}
   - 23: {fileID: 2349954}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 104
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2218,7 +2236,7 @@ GameObject:
   - 33: {fileID: 3307084}
   - 135: {fileID: 13573964}
   - 23: {fileID: 2311074}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 148
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2236,7 +2254,7 @@ GameObject:
   - 33: {fileID: 3347338}
   - 135: {fileID: 13535980}
   - 23: {fileID: 2342986}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 162
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2290,7 +2308,7 @@ GameObject:
   - 33: {fileID: 3354696}
   - 135: {fileID: 13570948}
   - 23: {fileID: 2311108}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 140
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2344,7 +2362,7 @@ GameObject:
   - 33: {fileID: 3304716}
   - 135: {fileID: 13532376}
   - 23: {fileID: 2349884}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 76
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2362,7 +2380,7 @@ GameObject:
   - 33: {fileID: 3302700}
   - 135: {fileID: 13514156}
   - 23: {fileID: 2390152}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 137
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2416,7 +2434,7 @@ GameObject:
   - 33: {fileID: 3388092}
   - 135: {fileID: 13581924}
   - 23: {fileID: 2378942}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 90
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2452,7 +2470,7 @@ GameObject:
   - 33: {fileID: 3399430}
   - 135: {fileID: 13565974}
   - 23: {fileID: 2396570}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 47
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2667,7 +2685,7 @@ GameObject:
   - 33: {fileID: 3383290}
   - 135: {fileID: 13543464}
   - 23: {fileID: 2327120}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 77
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2790,7 +2808,7 @@ GameObject:
   - 33: {fileID: 3349292}
   - 135: {fileID: 13557730}
   - 23: {fileID: 2341962}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 96
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2844,7 +2862,7 @@ GameObject:
   - 33: {fileID: 3331364}
   - 135: {fileID: 13514626}
   - 23: {fileID: 2301320}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2862,7 +2880,7 @@ GameObject:
   - 33: {fileID: 3326528}
   - 135: {fileID: 13526862}
   - 23: {fileID: 2363122}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 62
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2880,7 +2898,7 @@ GameObject:
   - 33: {fileID: 3321706}
   - 135: {fileID: 13591576}
   - 23: {fileID: 2340870}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 151
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2952,7 +2970,7 @@ GameObject:
   - 33: {fileID: 3388100}
   - 135: {fileID: 13507256}
   - 23: {fileID: 2331872}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 158
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2970,7 +2988,7 @@ GameObject:
   - 33: {fileID: 3328650}
   - 135: {fileID: 13558472}
   - 23: {fileID: 2374930}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 112
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2988,7 +3006,7 @@ GameObject:
   - 33: {fileID: 3339062}
   - 135: {fileID: 13595066}
   - 23: {fileID: 2396716}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 89
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3006,7 +3024,7 @@ GameObject:
   - 33: {fileID: 3329068}
   - 135: {fileID: 13535440}
   - 23: {fileID: 2301732}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3060,7 +3078,7 @@ GameObject:
   - 33: {fileID: 3362162}
   - 135: {fileID: 13503334}
   - 23: {fileID: 2346168}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 41
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3093,7 +3111,7 @@ GameObject:
   - 33: {fileID: 3306030}
   - 135: {fileID: 13568758}
   - 23: {fileID: 2385556}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 56
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3111,7 +3129,7 @@ GameObject:
   - 33: {fileID: 3383930}
   - 135: {fileID: 13581976}
   - 23: {fileID: 2334794}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 30
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3129,7 +3147,7 @@ GameObject:
   - 33: {fileID: 3305944}
   - 135: {fileID: 13589020}
   - 23: {fileID: 2371424}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3199,7 +3217,7 @@ GameObject:
   - 33: {fileID: 3350414}
   - 135: {fileID: 13551386}
   - 23: {fileID: 2300728}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3217,7 +3235,7 @@ GameObject:
   - 33: {fileID: 3387128}
   - 135: {fileID: 13505934}
   - 23: {fileID: 2322610}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 117
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3271,7 +3289,7 @@ GameObject:
   - 33: {fileID: 3374058}
   - 135: {fileID: 13576506}
   - 23: {fileID: 2369538}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3343,7 +3361,7 @@ GameObject:
   - 33: {fileID: 3386318}
   - 135: {fileID: 13554186}
   - 23: {fileID: 2367490}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3361,7 +3379,7 @@ GameObject:
   - 33: {fileID: 3390304}
   - 135: {fileID: 13554008}
   - 23: {fileID: 2397808}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 80
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3397,7 +3415,7 @@ GameObject:
   - 33: {fileID: 3392876}
   - 135: {fileID: 13541044}
   - 23: {fileID: 2372440}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3436,7 +3454,7 @@ GameObject:
   - 65: {fileID: 6572638}
   - 23: {fileID: 2303054}
   m_Layer: 0
-  m_Name: Underground_GOOP 2
+  m_Name: kitchen_death 2
   m_TagString: death
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3471,7 +3489,7 @@ GameObject:
   - 33: {fileID: 3312132}
   - 135: {fileID: 13523012}
   - 23: {fileID: 2338826}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 29
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3489,7 +3507,7 @@ GameObject:
   - 33: {fileID: 3377200}
   - 135: {fileID: 13537374}
   - 23: {fileID: 2350394}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 105
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3507,7 +3525,7 @@ GameObject:
   - 33: {fileID: 3387800}
   - 135: {fileID: 13595234}
   - 23: {fileID: 2313526}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 97
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3615,7 +3633,7 @@ GameObject:
   - 33: {fileID: 3329494}
   - 135: {fileID: 13526456}
   - 23: {fileID: 2347970}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 109
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3669,7 +3687,7 @@ GameObject:
   - 33: {fileID: 3392252}
   - 135: {fileID: 13591066}
   - 23: {fileID: 2399078}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 111
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3687,7 +3705,7 @@ GameObject:
   - 33: {fileID: 3331470}
   - 135: {fileID: 13578686}
   - 23: {fileID: 2381154}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 37
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3705,7 +3723,7 @@ GameObject:
   - 33: {fileID: 3325208}
   - 135: {fileID: 13564114}
   - 23: {fileID: 2357496}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 110
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3864,7 +3882,7 @@ GameObject:
   - 33: {fileID: 3391880}
   - 135: {fileID: 13556008}
   - 23: {fileID: 2351856}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 82
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3918,7 +3936,7 @@ GameObject:
   - 33: {fileID: 3330450}
   - 135: {fileID: 13538848}
   - 23: {fileID: 2328418}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3936,7 +3954,7 @@ GameObject:
   - 33: {fileID: 3378226}
   - 135: {fileID: 13502042}
   - 23: {fileID: 2390518}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 57
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4044,7 +4062,7 @@ GameObject:
   - 33: {fileID: 3334866}
   - 135: {fileID: 13577994}
   - 23: {fileID: 2313192}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 60
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4080,7 +4098,7 @@ GameObject:
   - 33: {fileID: 3334668}
   - 135: {fileID: 13555054}
   - 23: {fileID: 2336976}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 118
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4098,7 +4116,7 @@ GameObject:
   - 33: {fileID: 3353364}
   - 135: {fileID: 13538890}
   - 23: {fileID: 2343974}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 134
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4152,7 +4170,7 @@ GameObject:
   - 33: {fileID: 3382720}
   - 135: {fileID: 13590998}
   - 23: {fileID: 2399606}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4170,7 +4188,7 @@ GameObject:
   - 33: {fileID: 3316580}
   - 135: {fileID: 13502772}
   - 23: {fileID: 2385860}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 87
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4206,7 +4224,7 @@ GameObject:
   - 33: {fileID: 3319422}
   - 135: {fileID: 13550578}
   - 23: {fileID: 2328722}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 156
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4244,7 +4262,7 @@ GameObject:
   - 33: {fileID: 3357074}
   - 135: {fileID: 13537474}
   - 23: {fileID: 2393122}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 39
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4280,7 +4298,7 @@ GameObject:
   - 33: {fileID: 3336920}
   - 135: {fileID: 13564098}
   - 23: {fileID: 2308570}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4349,7 +4367,7 @@ GameObject:
   - 33: {fileID: 3302238}
   - 135: {fileID: 13514556}
   - 23: {fileID: 2368946}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 132
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4367,7 +4385,7 @@ GameObject:
   - 33: {fileID: 3337890}
   - 135: {fileID: 13572958}
   - 23: {fileID: 2331102}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 119
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4439,7 +4457,7 @@ GameObject:
   - 33: {fileID: 3370994}
   - 135: {fileID: 13558590}
   - 23: {fileID: 2351682}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4492,7 +4510,7 @@ GameObject:
   - 33: {fileID: 3387112}
   - 135: {fileID: 13529720}
   - 23: {fileID: 2397872}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4510,7 +4528,7 @@ GameObject:
   - 33: {fileID: 3311440}
   - 135: {fileID: 13523592}
   - 23: {fileID: 2398632}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4546,7 +4564,7 @@ GameObject:
   - 33: {fileID: 3373246}
   - 135: {fileID: 13519664}
   - 23: {fileID: 2339532}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 46
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4564,7 +4582,7 @@ GameObject:
   - 33: {fileID: 3373616}
   - 135: {fileID: 13571536}
   - 23: {fileID: 2346990}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 43
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4582,7 +4600,7 @@ GameObject:
   - 33: {fileID: 3387066}
   - 135: {fileID: 13505418}
   - 23: {fileID: 2374986}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 81
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4600,7 +4618,7 @@ GameObject:
   - 33: {fileID: 3352958}
   - 135: {fileID: 13585450}
   - 23: {fileID: 2376274}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 61
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4618,7 +4636,7 @@ GameObject:
   - 33: {fileID: 3364110}
   - 135: {fileID: 13501968}
   - 23: {fileID: 2317854}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4636,7 +4654,7 @@ GameObject:
   - 33: {fileID: 3324218}
   - 135: {fileID: 13558918}
   - 23: {fileID: 2342730}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 152
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4654,7 +4672,7 @@ GameObject:
   - 33: {fileID: 3393628}
   - 135: {fileID: 13531768}
   - 23: {fileID: 2300814}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 63
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4672,7 +4690,7 @@ GameObject:
   - 33: {fileID: 3332742}
   - 135: {fileID: 13587638}
   - 23: {fileID: 2324694}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 154
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4690,7 +4708,7 @@ GameObject:
   - 33: {fileID: 3365164}
   - 135: {fileID: 13582008}
   - 23: {fileID: 2333092}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4795,7 +4813,7 @@ GameObject:
   - 33: {fileID: 3362374}
   - 135: {fileID: 13505848}
   - 23: {fileID: 2326006}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 73
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4903,7 +4921,7 @@ GameObject:
   - 33: {fileID: 3305622}
   - 135: {fileID: 13555930}
   - 23: {fileID: 2359842}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 34
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4992,7 +5010,7 @@ GameObject:
   - 33: {fileID: 3314516}
   - 135: {fileID: 13535094}
   - 23: {fileID: 2359074}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 133
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5010,7 +5028,7 @@ GameObject:
   - 33: {fileID: 3368746}
   - 135: {fileID: 13551876}
   - 23: {fileID: 2380970}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 92
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5028,7 +5046,7 @@ GameObject:
   - 33: {fileID: 3371380}
   - 135: {fileID: 13553042}
   - 23: {fileID: 2353104}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 116
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5115,7 +5133,7 @@ GameObject:
   - 33: {fileID: 3361832}
   - 135: {fileID: 13520028}
   - 23: {fileID: 2355672}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 126
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5169,7 +5187,7 @@ GameObject:
   - 33: {fileID: 3337862}
   - 135: {fileID: 13500298}
   - 23: {fileID: 2306634}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 48
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5220,7 +5238,7 @@ GameObject:
   - 33: {fileID: 3354498}
   - 135: {fileID: 13512452}
   - 23: {fileID: 2344886}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 93
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5238,7 +5256,7 @@ GameObject:
   - 33: {fileID: 3390040}
   - 135: {fileID: 13571596}
   - 23: {fileID: 2390732}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 128
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5256,7 +5274,7 @@ GameObject:
   - 33: {fileID: 3375164}
   - 135: {fileID: 13543306}
   - 23: {fileID: 2318820}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 127
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5317,6 +5335,42 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1 &169622
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 493900}
+  - 33: {fileID: 3311464}
+  - 65: {fileID: 6583220}
+  - 23: {fileID: 2314224}
+  m_Layer: 0
+  m_Name: kitchen_death
+  m_TagString: death
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &169670
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 428738}
+  - 33: {fileID: 3397124}
+  - 65: {fileID: 6552952}
+  - 23: {fileID: 2389664}
+  m_Layer: 0
+  m_Name: Underground_GOOP 2
+  m_TagString: death
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &169814
 GameObject:
   m_ObjectHideFlags: 1
@@ -5328,7 +5382,7 @@ GameObject:
   - 33: {fileID: 3304258}
   - 135: {fileID: 13577896}
   - 23: {fileID: 2373106}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 68
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5346,7 +5400,7 @@ GameObject:
   - 33: {fileID: 3350476}
   - 135: {fileID: 13549896}
   - 23: {fileID: 2392096}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 102
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5382,7 +5436,7 @@ GameObject:
   - 33: {fileID: 3342774}
   - 135: {fileID: 13526828}
   - 23: {fileID: 2352664}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 58
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5400,7 +5454,7 @@ GameObject:
   - 33: {fileID: 3323066}
   - 135: {fileID: 13505200}
   - 23: {fileID: 2396462}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 98
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5488,7 +5542,7 @@ GameObject:
   - 33: {fileID: 3394220}
   - 135: {fileID: 13541626}
   - 23: {fileID: 2379536}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 71
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5575,7 +5629,7 @@ GameObject:
   - 33: {fileID: 3329860}
   - 135: {fileID: 13507334}
   - 23: {fileID: 2309404}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5647,7 +5701,7 @@ GameObject:
   - 33: {fileID: 3320702}
   - 135: {fileID: 13540818}
   - 23: {fileID: 2363894}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 122
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5683,7 +5737,7 @@ GameObject:
   - 33: {fileID: 3332602}
   - 135: {fileID: 13536638}
   - 23: {fileID: 2340692}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 85
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5734,7 +5788,7 @@ GameObject:
   - 33: {fileID: 3326120}
   - 135: {fileID: 13513936}
   - 23: {fileID: 2337136}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 146
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5788,7 +5842,7 @@ GameObject:
   - 33: {fileID: 3358476}
   - 135: {fileID: 13538490}
   - 23: {fileID: 2331166}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 147
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5890,7 +5944,7 @@ GameObject:
   - 33: {fileID: 3386714}
   - 135: {fileID: 13584360}
   - 23: {fileID: 2338610}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 35
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5926,7 +5980,7 @@ GameObject:
   - 33: {fileID: 3337164}
   - 135: {fileID: 13512668}
   - 23: {fileID: 2367004}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 101
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5944,7 +5998,7 @@ GameObject:
   - 33: {fileID: 3305376}
   - 135: {fileID: 13509562}
   - 23: {fileID: 2361978}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 94
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5980,7 +6034,7 @@ GameObject:
   - 33: {fileID: 3345614}
   - 135: {fileID: 13588700}
   - 23: {fileID: 2356896}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 142
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5998,7 +6052,7 @@ GameObject:
   - 33: {fileID: 3338880}
   - 135: {fileID: 13526732}
   - 23: {fileID: 2391768}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 120
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6034,7 +6088,7 @@ GameObject:
   - 33: {fileID: 3302510}
   - 135: {fileID: 13581614}
   - 23: {fileID: 2356756}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 138
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6052,7 +6106,7 @@ GameObject:
   - 33: {fileID: 3396276}
   - 135: {fileID: 13505310}
   - 23: {fileID: 2331064}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 91
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6088,7 +6142,7 @@ GameObject:
   - 33: {fileID: 3394500}
   - 135: {fileID: 13594162}
   - 23: {fileID: 2313554}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 54
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6106,7 +6160,7 @@ GameObject:
   - 33: {fileID: 3321924}
   - 135: {fileID: 13556370}
   - 23: {fileID: 2360810}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 52
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6143,7 +6197,7 @@ GameObject:
   - 33: {fileID: 3338634}
   - 135: {fileID: 13568320}
   - 23: {fileID: 2312328}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 28
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6179,7 +6233,7 @@ GameObject:
   - 33: {fileID: 3301942}
   - 135: {fileID: 13552370}
   - 23: {fileID: 2373496}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6197,7 +6251,7 @@ GameObject:
   - 33: {fileID: 3318760}
   - 135: {fileID: 13549768}
   - 23: {fileID: 2344486}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 38
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6269,7 +6323,7 @@ GameObject:
   - 33: {fileID: 3301630}
   - 135: {fileID: 13597690}
   - 23: {fileID: 2349986}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 75
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6287,7 +6341,7 @@ GameObject:
   - 33: {fileID: 3343460}
   - 135: {fileID: 13554082}
   - 23: {fileID: 2348634}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6323,7 +6377,7 @@ GameObject:
   - 33: {fileID: 3344748}
   - 135: {fileID: 13538460}
   - 23: {fileID: 2341516}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 114
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6341,7 +6395,7 @@ GameObject:
   - 33: {fileID: 3379802}
   - 135: {fileID: 13564608}
   - 23: {fileID: 2302342}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 95
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6449,7 +6503,7 @@ GameObject:
   - 33: {fileID: 3348892}
   - 135: {fileID: 13598056}
   - 23: {fileID: 2333980}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 106
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6485,7 +6539,7 @@ GameObject:
   - 33: {fileID: 3376300}
   - 135: {fileID: 13570026}
   - 23: {fileID: 2303434}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6503,7 +6557,7 @@ GameObject:
   - 33: {fileID: 3368166}
   - 135: {fileID: 13558354}
   - 23: {fileID: 2310880}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 49
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6539,7 +6593,7 @@ GameObject:
   - 33: {fileID: 3337078}
   - 135: {fileID: 13524526}
   - 23: {fileID: 2340480}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6719,7 +6773,7 @@ GameObject:
   - 33: {fileID: 3396304}
   - 135: {fileID: 13573396}
   - 23: {fileID: 2389464}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 144
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6737,7 +6791,7 @@ GameObject:
   - 33: {fileID: 3388760}
   - 135: {fileID: 13555486}
   - 23: {fileID: 2312274}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6755,7 +6809,7 @@ GameObject:
   - 33: {fileID: 3306926}
   - 135: {fileID: 13525362}
   - 23: {fileID: 2316592}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 44
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6791,7 +6845,7 @@ GameObject:
   - 33: {fileID: 3336804}
   - 135: {fileID: 13557132}
   - 23: {fileID: 2324856}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 155
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6809,7 +6863,7 @@ GameObject:
   - 33: {fileID: 3395892}
   - 135: {fileID: 13532136}
   - 23: {fileID: 2395040}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 31
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6845,7 +6899,7 @@ GameObject:
   - 33: {fileID: 3307770}
   - 135: {fileID: 13577466}
   - 23: {fileID: 2360022}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 124
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6896,7 +6950,7 @@ GameObject:
   - 33: {fileID: 3343334}
   - 135: {fileID: 13556322}
   - 23: {fileID: 2394272}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 136
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6914,7 +6968,7 @@ GameObject:
   - 33: {fileID: 3305446}
   - 135: {fileID: 13572350}
   - 23: {fileID: 2347978}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6932,7 +6986,7 @@ GameObject:
   - 33: {fileID: 3325820}
   - 135: {fileID: 13568120}
   - 23: {fileID: 2345912}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 69
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6950,7 +7004,7 @@ GameObject:
   - 33: {fileID: 3310332}
   - 135: {fileID: 13584460}
   - 23: {fileID: 2345356}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 107
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7004,7 +7058,7 @@ GameObject:
   - 33: {fileID: 3374150}
   - 135: {fileID: 13593218}
   - 23: {fileID: 2319498}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 157
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7040,7 +7094,7 @@ GameObject:
   - 33: {fileID: 3387648}
   - 135: {fileID: 13585128}
   - 23: {fileID: 2342462}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7094,7 +7148,7 @@ GameObject:
   - 33: {fileID: 3310006}
   - 135: {fileID: 13563902}
   - 23: {fileID: 2381482}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 72
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7112,7 +7166,7 @@ GameObject:
   - 33: {fileID: 3334328}
   - 135: {fileID: 13557910}
   - 23: {fileID: 2372980}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 40
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7130,7 +7184,7 @@ GameObject:
   - 33: {fileID: 3345840}
   - 135: {fileID: 13510558}
   - 23: {fileID: 2323756}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 65
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7165,7 +7219,7 @@ GameObject:
   - 33: {fileID: 3319808}
   - 135: {fileID: 13576976}
   - 23: {fileID: 2355358}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 153
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7201,7 +7255,7 @@ GameObject:
   - 33: {fileID: 3328582}
   - 135: {fileID: 13554404}
   - 23: {fileID: 2364740}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7275,7 +7329,7 @@ GameObject:
   - 33: {fileID: 3348568}
   - 135: {fileID: 13592944}
   - 23: {fileID: 2309758}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 88
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7293,7 +7347,7 @@ GameObject:
   - 33: {fileID: 3323346}
   - 135: {fileID: 13522300}
   - 23: {fileID: 2318064}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 53
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7311,7 +7365,7 @@ GameObject:
   - 33: {fileID: 3309142}
   - 135: {fileID: 13549772}
   - 23: {fileID: 2349588}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 79
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7365,7 +7419,7 @@ GameObject:
   - 33: {fileID: 3305938}
   - 135: {fileID: 13558448}
   - 23: {fileID: 2301070}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sphere 42
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7485,6 +7539,9 @@ Transform:
   - {fileID: 465912}
   - {fileID: 489188}
   - {fileID: 440514}
+  - {fileID: 428738}
+  - {fileID: 493900}
+  - {fileID: 490762}
   - {fileID: 461208}
   m_Father: {fileID: 422046}
   m_RootOrder: 2
@@ -8191,7 +8248,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 195566}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3321.11035, y: -268.378784, z: 7.09999847}
+  m_LocalPosition: {x: 3428, y: -89.4000015, z: 7.0999999}
   m_LocalScale: {x: 1.25000119, y: 1.25, z: 1.25}
   m_Children: []
   m_Father: {fileID: 422046}
@@ -8950,6 +9007,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 451914}
   m_RootOrder: 95
+--- !u!4 &428738
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169670}
+  m_LocalRotation: {x: 4.80599414e-11, y: -8.78086015e-13, z: -.00173327699, w: .99999851}
+  m_LocalPosition: {x: 2440.8999, y: -456, z: 50}
+  m_LocalScale: {x: 234.360733, y: 56.5027008, z: 20.8622971}
+  m_Children: []
+  m_Father: {fileID: 400110}
+  m_RootOrder: 7
 --- !u!4 &429492
 Transform:
   m_ObjectHideFlags: 1
@@ -10781,11 +10850,11 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 146468}
   m_LocalRotation: {x: 4.80599414e-11, y: -8.78086015e-13, z: -.00173327699, w: .99999851}
-  m_LocalPosition: {x: 2440.8999, y: -456, z: 50}
-  m_LocalScale: {x: 234.360733, y: 56.5027008, z: 20.8622971}
+  m_LocalPosition: {x: 3757.30005, y: 33.5999985, z: 44.0999985}
+  m_LocalScale: {x: 2.53144026, y: 1.53462279, z: 3.63299441}
   m_Children: []
   m_Father: {fileID: 400110}
-  m_RootOrder: 7
+  m_RootOrder: 10
 --- !u!4 &461210
 Transform:
   m_ObjectHideFlags: 1
@@ -12238,6 +12307,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 451914}
   m_RootOrder: 143
+--- !u!4 &490762
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 122184}
+  m_LocalRotation: {x: 4.80599414e-11, y: -8.78086015e-13, z: -.00173327699, w: .99999851}
+  m_LocalPosition: {x: 3758.80005, y: -38.5999985, z: 50}
+  m_LocalScale: {x: 26.3621807, y: 56.5026894, z: 20.8622971}
+  m_Children: []
+  m_Father: {fileID: 400110}
+  m_RootOrder: 9
 --- !u!4 &490876
 Transform:
   m_ObjectHideFlags: 1
@@ -12358,6 +12439,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 422046}
   m_RootOrder: 9
+--- !u!4 &493900
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169622}
+  m_LocalRotation: {x: 4.80599414e-11, y: -8.78086015e-13, z: -.00173327699, w: .99999851}
+  m_LocalPosition: {x: 3289.69995, y: -190.699997, z: 50}
+  m_LocalScale: {x: 234.360703, y: 56.5026932, z: 20.8622971}
+  m_Children: []
+  m_Father: {fileID: 400110}
+  m_RootOrder: 8
 --- !u!4 &494426
 Transform:
   m_ObjectHideFlags: 1
@@ -14209,6 +14302,30 @@ MeshRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
+--- !u!23 &2314224
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169622}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 2100000, guid: af39007b9bf7b439ea25b307637d44ba, type: 2}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
 --- !u!23 &2314390
 MeshRenderer:
   m_ObjectHideFlags: 1
@@ -15276,6 +15393,30 @@ MeshRenderer:
   m_ReceiveShadows: 1
   m_Materials:
   - {fileID: 2100000, guid: 7be04e4fc92cb4c15acf39e263e10481, type: 2}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+--- !u!23 &2328740
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 122184}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 2100000, guid: af39007b9bf7b439ea25b307637d44ba, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -21217,6 +21358,30 @@ MeshRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
+--- !u!23 &2389664
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169670}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 2100000, guid: af39007b9bf7b439ea25b307637d44ba, type: 2}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
 --- !u!23 &2390046
 MeshRenderer:
   m_ObjectHideFlags: 1
@@ -22434,6 +22599,13 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 158646}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!33 &3311464
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169622}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!33 &3311542
 MeshFilter:
   m_ObjectHideFlags: 1
@@ -22987,6 +23159,13 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 150530}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!33 &3332186
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 122184}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!33 &3332602
 MeshFilter:
   m_ObjectHideFlags: 1
@@ -24723,6 +24902,13 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 117222}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!33 &3397124
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169670}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!33 &3397740
 MeshFilter:
   m_ObjectHideFlags: 1
@@ -24999,6 +25185,18 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 12, y: 33.6500015, z: 32.5200005}
   m_Center: {x: 0, y: 0, z: 2.44000006}
+--- !u!65 &6552952
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169670}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!65 &6554678
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -25071,6 +25269,18 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &6583220
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169622}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!65 &6584974
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -25107,6 +25317,18 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 12, y: 33.6500015, z: 32.5200005}
   m_Center: {x: 0, y: 0, z: 2.44000006}
+--- !u!65 &6591516
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 122184}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!95 &9540368
 Animator:
   serializedVersion: 3
@@ -25177,7 +25399,7 @@ MonoBehaviour:
   snailPrefab: {fileID: 146032, guid: 9ff29c97cf95f314082dba178ce85238, type: 2}
   checkPointNum: 9
   hasBeenTouched: 0
-  letterCanvas: {fileID: 0}
+  letterCanvas: {fileID: 176280, guid: 4ac9e53f0ca1e454fb7bb6ebe151822f, type: 2}
 --- !u!114 &11419578
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -25311,7 +25533,7 @@ MonoBehaviour:
   snailPrefab: {fileID: 146032, guid: 9ff29c97cf95f314082dba178ce85238, type: 2}
   checkPointNum: 8
   hasBeenTouched: 0
-  letterCanvas: {fileID: 0}
+  letterCanvas: {fileID: 176280, guid: e6942d7da1b4dc24cb31e214328881d5, type: 2}
 --- !u!114 &11464794
 MonoBehaviour:
   m_ObjectHideFlags: 1

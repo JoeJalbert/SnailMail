@@ -7,6 +7,7 @@ public class spawnPosition : MonoBehaviour {
 			foreach(GameObject checkpoint in GameObject.FindGameObjectsWithTag("Checkpoint")){
 				if(PlayerPrefs.GetInt("CurrentStage") == checkpoint.GetComponent<checkPoint>().checkPointNum){
 					transform.position = checkpoint.transform.position;
+					checkpoint.GetComponent<checkPoint>().isActive = true;
 				}
 			}
 		PlayerPrefs.SetInt ("IsLoaded", 1);

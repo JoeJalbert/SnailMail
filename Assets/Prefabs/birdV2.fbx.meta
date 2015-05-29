@@ -35,12 +35,16 @@ ModelImporter:
     4300002: bird:eye
     4300004: bird:body
     4300006: bird:eye1
+    11100000: //RootNode
+    13700000: bird:body
+    13700002: bird:eye
+    13700004: bird:eye1
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
   animations:
-    legacyGenerateAnimations: 4
+    legacyGenerateAnimations: 0
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
