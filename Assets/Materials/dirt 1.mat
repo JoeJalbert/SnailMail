@@ -139,6 +139,10 @@ Material:
         second: 0
       data:
         first:
+          name: _Outline
+        second: 160
+      data:
+        first:
           name: _Cull
         second: 0
       data:
@@ -167,10 +171,6 @@ Material:
         second: 1
       data:
         first:
-          name: _Outline
-        second: 160
-      data:
-        first:
           name: _Asym
         second: 0
       data:
@@ -189,7 +189,7 @@ Material:
       data:
         first:
           name: _Color
-        second: {r: .257352948, g: .175103262, b: .10975346, a: 1}
+        second: {r: .172549024, g: .10980393, b: .0196078438, a: 1}
       data:
         first:
           name: _EmissionColorUI
