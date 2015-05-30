@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 0eb5fc6adf4a3ac4f90b4bd934026beb
-timeCreated: 1432898231
+timeCreated: 1432946808
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -149,35 +149,8 @@ ModelImporter:
     4300050: Line001
     4300052: Cone019
     4300054: Cone013
-    6400000: Cone005
-    6400002: Cone009
-    6400004: Cone010
-    6400006: Cone011
-    6400008: Cone012
-    6400010: Cone013
-    6400012: Cone014
-    6400014: Cone015
-    6400016: Cone016
-    6400018: Cone017
-    6400020: Cone018
-    6400022: Cone019
-    6400024: Line001
-    6400026: Sphere008
-    6400028: Sphere028
-    6400030: Sphere029
-    6400032: Sphere030
-    6400034: Sphere031
-    6400036: Sphere032
-    6400038: Sphere033
-    6400040: Sphere034
-    6400042: Sphere035
-    6400044: Sphere037
-    6400046: Sphere038
-    6400048: Sphere040
-    6400050: //RootNode
-    7400000: Take 001
+    7400000: PrototypeLevel60
     9500000: //RootNode
-    11100000: //RootNode
     13700000: Sphere036
     13700002: Sphere039
   materials:
@@ -195,103 +168,13 @@ ModelImporter:
     animationScaleError: .5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations:
-    - serializedVersion: 16
-      name: Take 001
-      takeName: Take 001
-      firstFrame: 0
-      lastFrame: 75
-      wrapMode: 2
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      loopTime: 0
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask:
-      - path: 
-        weight: 1
-      - path: Bone001
-        weight: 1
-      - path: Bone001/Bone002
-        weight: 1
-      - path: Bone001/Bone002/Cone013
-        weight: 1
-      - path: Bone004
-        weight: 1
-      - path: Bone004/Bone005
-        weight: 1
-      - path: Bone004/Bone005/Cone019
-        weight: 1
-      - path: Cone009
-        weight: 1
-      - path: Cone010
-        weight: 1
-      - path: Cone014
-        weight: 1
-      - path: Cone015
-        weight: 1
-      - path: Line001
-        weight: 1
-      - path: Sphere008
-        weight: 1
-      - path: Sphere008/Cone005
-        weight: 1
-      - path: Sphere028
-        weight: 1
-      - path: Sphere029
-        weight: 1
-      - path: Sphere030
-        weight: 1
-      - path: Sphere031
-        weight: 1
-      - path: Sphere032
-        weight: 1
-      - path: Sphere033
-        weight: 1
-      - path: Sphere034
-        weight: 1
-      - path: Sphere034/Cone011
-        weight: 1
-      - path: Sphere035
-        weight: 1
-      - path: Sphere035/Cone012
-        weight: 1
-      - path: Sphere036
-        weight: 1
-      - path: Sphere037
-        weight: 1
-      - path: Sphere037/Cone017
-        weight: 1
-      - path: Sphere038
-        weight: 1
-      - path: Sphere038/Cone016
-        weight: 1
-      - path: Sphere039
-        weight: 1
-      - path: Sphere040
-        weight: 1
-      - path: Sphere040/Cone018
-        weight: 1
-      maskType: 0
-      maskSource: {instanceID: 0}
+    clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 15
+    globalScale: 1
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -323,7 +206,7 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 1
+  animationType: 2
   additionalBone: 0
   userData: 
   assetBundleName: 
