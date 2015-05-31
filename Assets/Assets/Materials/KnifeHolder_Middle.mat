@@ -6,9 +6,9 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: microwaveColor
+  m_Name: KnifeHolder_Middle
   m_Shader: {fileID: 4800000, guid: 76374158b4c4e5744b394e9290aae693, type: 3}
-  m_ShaderKeywords: _COLOR_ON _OUTL_ON
+  m_ShaderKeywords: _COLOR_ON _DS_ON _OUTL_ON
   m_LightmapFlags: 5
   m_CustomRenderQueue: -1
   m_SavedProperties:
@@ -140,7 +140,7 @@ Material:
       data:
         first:
           name: _Cull
-        second: 2
+        second: 0
       data:
         first:
           name: _Outl
@@ -164,11 +164,11 @@ Material:
       data:
         first:
           name: _DS
-        second: 0
+        second: 1
       data:
         first:
           name: _Outline
-        second: .150000006
+        second: 0
       data:
         first:
           name: _Asym
@@ -185,11 +185,11 @@ Material:
       data:
         first:
           name: _EmissionColor
-        second: {r: 0, g: 0, b: 0, a: 1}
+        second: {r: 0, g: 0, b: 0, a: 0}
       data:
         first:
           name: _Color
-        second: {r: .756862819, g: .760784388, b: .756862819, a: 1}
+        second: {r: .670588255, g: .835294187, b: .796078503, a: 1}
       data:
         first:
           name: _EmissionColorUI
