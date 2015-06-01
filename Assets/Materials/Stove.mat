@@ -7,8 +7,8 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Stove
-  m_Shader: {fileID: 4800000, guid: 9ce107479d11178d11005b9844295342, type: 3}
-  m_ShaderKeywords: 
+  m_Shader: {fileID: 4800000, guid: 76374158b4c4e5744b394e9290aae693, type: 3}
+  m_ShaderKeywords: _COLOR_ON _OUTL_ON _TEX_ON
   m_LightmapFlags: 5
   m_CustomRenderQueue: -1
   m_SavedProperties:
@@ -144,15 +144,15 @@ Material:
       data:
         first:
           name: _Outl
-        second: 0
+        second: 1
       data:
         first:
           name: _DetailTex
-        second: 0
+        second: 1
       data:
         first:
           name: _TintColor
-        second: 0
+        second: 1
       data:
         first:
           name: _VertexColor
@@ -168,7 +168,7 @@ Material:
       data:
         first:
           name: _Outline
-        second: .00439999998
+        second: 49.3699989
       data:
         first:
           name: _Asym
