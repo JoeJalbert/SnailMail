@@ -71,9 +71,9 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 442566}
-  - 136: {fileID: 13608530}
   - 54: {fileID: 5459314}
   - 114: {fileID: 11422430}
+  - 135: {fileID: 13515324}
   m_Layer: 0
   m_Name: _shellJ
   m_TagString: shell
@@ -118,7 +118,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 123530}
   m_LocalRotation: {x: 0, y: .707106829, z: 0, w: .707106709}
-  m_LocalPosition: {x: 83.8458252, y: 11.5036163, z: 0}
+  m_LocalPosition: {x: 1670.05908, y: 124.998413, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 424126}
@@ -244,14 +244,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6751f27b43a5ec04e8102e9a3f901246, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rollSpeed: 120
+  rollSpeed: 300
   wholeObject: {fileID: 123530}
   snailPrefab: {fileID: 146032, guid: 9ff29c97cf95f314082dba178ce85238, type: 2}
   shellCurrent: {fileID: 164742}
   currentVelocity: {x: 0, y: 0, z: 0}
   youWin: 0
---- !u!136 &13608530
-CapsuleCollider:
+--- !u!135 &13515324
+SphereCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
@@ -259,10 +259,9 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 4.73000002
-  m_Height: 10.7299995
-  m_Direction: 2
-  m_Center: {x: 0, y: 0, z: .819999993}
+  serializedVersion: 2
+  m_Radius: 5.30999994
+  m_Center: {x: 0, y: 0, z: .930000007}
 --- !u!137 &13702834
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1
