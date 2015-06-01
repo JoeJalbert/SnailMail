@@ -78,15 +78,15 @@ public class BodyControl : MonoBehaviour {
             youWin = true;
         }
     }
-    void OnGUI() {
-        if(youWin == true){
-            GUI.Label(new Rect(300, 309, 500, 300), "You Win!");
-			GUI.Label(new Rect(500, 309, 500, 300), "You Win!");
-			GUI.Label(new Rect(600, 309, 500, 300), "You Win!");
-			GUI.Label(new Rect(600, 309, 500, 300), "You Win!");
-			GUI.Label(new Rect(800, 309, 500, 300), "You Win!");
-			GUI.Label(new Rect(900, 309, 500, 300), "You Win!");
-
-        }
-    }
+//    void OnGUI() {
+//        if(youWin == true){
+//            GUI.Label(new Rect(300, 309, 500, 300), "You Win!");
+//			GUI.Label(new Rect(500, 309, 500, 300), "You Win!");
+//			GUI.Label(new Rect(600, 309, 500, 300), "You Win!");
+//			GUI.Label(new Rect(600, 309, 500, 300), "You Win!");
+//			GUI.Label(new Rect(800, 309, 500, 300), "You Win!");
+//			GUI.Label(new Rect(900, 309, 500, 300), "You Win!");
+//
+//        }
+//    }
 }

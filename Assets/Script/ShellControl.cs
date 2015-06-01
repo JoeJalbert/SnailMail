@@ -47,9 +47,9 @@ public class ShellControl : MonoBehaviour {
             youWin = true;
         }
     }
-    void OnGUI() {
-        if(youWin == true){
-        GUI.Label(new Rect(300, 309, 500, 300), "You Win!");
-        }
-    }
+//    void OnGUI() {
+//        if(youWin == true){
+//        GUI.Label(new Rect(300, 309, 500, 300), "You Win!");
+//        }
+//    }
 }
