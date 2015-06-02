@@ -3,18 +3,30 @@ using UnityEngine;
 
 namespace UnityStandardAssets.ImageEffects
 {
+	[ImageEffectOpaque]
     [ExecuteInEditMode]
     [RequireComponent (typeof(Camera))]
     [AddComponentMenu ("Image Effects/Camera/Depth of Field (Lens Blur, Scatter, DX11)") ]
     public class DepthOfField : PostEffectsBase {
 
+
         public bool  visualizeFocus = false;
         public float focalLength = 10.0f;
         public float focalSize = 0.05f;
         public float aperture = 11.5f;
-        public Transform focalTransform = GameObject.FindWithTag("Shell").transform;
+		public Transform focalTransform;
         public float maxBlurSize = 2.0f;
         public bool  highResolution = false;
+
+		
+		void Update(){
+			if(GameObject.FindWithTag ("letter") != null){
+				focalTransform = GameObject.FindWithTag("letter").transform;
+			}
+			else{
+				focalTransform = GameObject.FindWithTag ("Player").transform;
+			}
+		}
 
         public enum BlurType {
             DiscBlur = 0,

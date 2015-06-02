@@ -64,7 +64,7 @@ public class checkPoint : MonoBehaviour {
 			}
 		}
 		if(hasBeenTouched == false && (c.tag == "shell" || c.tag == "head")){
-			//Instantiate(letterCanvas, new Vector3(0,0,0), Quaternion.identity);
+			Instantiate(letterCanvas, new Vector3(0,0,0), Quaternion.identity);
 			hasBeenTouched = true;
 			if(PlayerPrefs.GetInt ("CheckpointProgress") < checkPointNum - 1){
 				PlayerPrefs.SetInt ("CheckpointProgress", checkPointNum - 1);
