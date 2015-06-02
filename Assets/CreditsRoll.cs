@@ -9,7 +9,7 @@ public class CreditsRoll : MonoBehaviour {
 			tempPos.y += 1;
 			transform.position = tempPos;
 
-			if(tempPos.y > 1500){
+			if(tempPos.y > 2100){
 				Application.LoadLevel(0);
 			}
 		}
